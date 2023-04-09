@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Created from a Udemy tutorial
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
